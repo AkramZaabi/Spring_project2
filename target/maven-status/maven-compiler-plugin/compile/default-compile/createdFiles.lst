@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\dao\OffreRepository.class
+com\example\demo\web\RestOffres.class
+com\example\demo\entities\Offre.class
